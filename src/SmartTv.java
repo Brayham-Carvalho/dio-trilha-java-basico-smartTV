@@ -1,6 +1,7 @@
 public class SmartTv {
 
     boolean ligada = false;
+    boolean desligada = true;
     int canal = 1;
     int volume = 25;
 
